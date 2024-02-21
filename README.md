@@ -1,5 +1,4 @@
-## whisper_translation
----
+# whisper_translation
 ## Setup
 ---
 To install dependencies simply run
@@ -40,7 +39,10 @@ Whisper also requires the command-line tool ffmpeg to be installed on your syste
 
 ## How to use
 ---
-`server> python transcribe_server_google.py`
-`client> python transcribe_client.py`
+<server>
+`python transcribe_server_google.py`
+
+<client>
+`python transcribe_client.py`
 
 and speech
