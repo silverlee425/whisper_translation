@@ -1,5 +1,3 @@
-#! python3.7
-
 import argparse
 import datetime
 import io
