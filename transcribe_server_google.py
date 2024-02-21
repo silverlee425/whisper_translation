@@ -37,7 +37,6 @@ def main():
     # Cue the user that we're ready to go.
     print("Model loaded.\n")
 
-    #sock = connection_coroutine('127.0.0.1', 8000)
     sock = connection_coroutine(host, port)
     text = ''
     sock.send(None)
