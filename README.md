@@ -39,10 +39,10 @@ Whisper also requires the command-line tool ffmpeg to be installed on your syste
 
 ## How to use
 ---
-<server>
+###### server
 `python transcribe_server_google.py`
 
-<client>
+###### client
 `python transcribe_client.py`
 
 and speech
