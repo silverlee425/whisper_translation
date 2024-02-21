@@ -19,6 +19,7 @@ To install dependencies simply run
 ##### on Windows using Scoop (https://scoop.sh/)
 `scoop install ffmpeg`
 
+---
 in an environment of your choosing.
 Whisper also requires the command-line tool ffmpeg to be installed on your system.
 
