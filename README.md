@@ -1,6 +1,6 @@
 # whisper_translation
-## Setup
 ---
+## Setup
 To install dependencies simply run
 `pip install -r requirements.txt`
 
@@ -38,8 +38,8 @@ Whisper also requires the command-line tool ffmpeg to be installed on your syste
 ##### on Windows using Scoop (https://scoop.sh/)
 `scoop install ffmpeg`
 
-## How to use
 ---
+## How to use
 ##### server
 `python transcribe_server_google.py`
 
